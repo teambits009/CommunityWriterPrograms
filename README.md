@@ -6,7 +6,7 @@ A list of companies that have paid Developer Community Writer Programs.
 
 - [Abstract API](https://www.abstractapi.com/write-for-us) - $100 per article.
   > Technical content and tutorials related to the APIs in their catalogue.
-
+  
 - [Adeva](https://adevait.com/write-for-us) - $200+ per article
   > Technical guides, thought leadership content and resources for Engineering Managers.
 
